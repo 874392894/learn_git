@@ -13,5 +13,7 @@ label的特性全都有，使用起来更友好更方便。
 ![MLEmojiLabel2](https://raw.githubusercontent.com/molon/MLEmojiLabel/master/MLEmojiLabel_TableView.jpg)
 
 Very Very  Good!
-
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
 
